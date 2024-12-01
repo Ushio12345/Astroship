@@ -173,3 +173,11 @@ h2 {
         font-size: 3rem !important;
     }
 }
+@media (max-width: 1024px) {
+    p {
+        font-size: 13px !important;
+    }
+    .layout {
+        padding: 50px 0;
+    }
+}
